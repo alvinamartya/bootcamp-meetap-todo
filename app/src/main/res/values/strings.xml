@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDo Application</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="task_name">Task Name</string>
+    <string name="example_wake_up">Example: Wake up</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="data_is_empty">Data is empty</string>
+</resources>
